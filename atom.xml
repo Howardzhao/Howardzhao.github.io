@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Howardzhao.github.io</id>
+    <id>https://forever.mx</id>
     <title>Forever.mx</title>
-    <updated>2019-10-12T02:45:02.892Z</updated>
+    <updated>2019-10-12T03:05:27.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Howardzhao.github.io"/>
-    <link rel="self" href="https://Howardzhao.github.io/atom.xml"/>
+    <link rel="alternate" href="https://forever.mx"/>
+    <link rel="self" href="https://forever.mx/atom.xml"/>
     <subtitle>I&apos;m the dust in the wind , I&apos;m the star in the northern sky...</subtitle>
-    <logo>https://Howardzhao.github.io/images/avatar.png</logo>
-    <icon>https://Howardzhao.github.io/favicon.ico</icon>
+    <logo>https://forever.mx/images/avatar.png</logo>
+    <icon>https://forever.mx/favicon.ico</icon>
     <rights>All rights reserved 2019, Forever.mx</rights>
 </feed>
