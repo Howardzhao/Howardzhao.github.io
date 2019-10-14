@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://forever.mx</id>
-    <title>Forever.mx</title>
-    <updated>2019-10-14T01:37:47.166Z</updated>
+    <id>https://howardzhao.com</id>
+    <title>HowardZhao.com</title>
+    <updated>2019-10-14T09:38:37.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://forever.mx"/>
-    <link rel="self" href="https://forever.mx/atom.xml"/>
-    <subtitle>I&apos;m the dust in the wind , I&apos;m the star in the northern sky...</subtitle>
-    <logo>https://forever.mx/images/avatar.png</logo>
-    <icon>https://forever.mx/favicon.ico</icon>
-    <rights>All rights reserved 2019, Forever.mx</rights>
+    <link rel="alternate" href="https://howardzhao.com"/>
+    <link rel="self" href="https://howardzhao.com/atom.xml"/>
+    <subtitle>About HowardZhao.com</subtitle>
+    <logo>https://howardzhao.com/images/avatar.png</logo>
+    <icon>https://howardzhao.com/favicon.ico</icon>
+    <rights>All rights reserved 2019, HowardZhao.com</rights>
     <entry>
         <title type="html"><![CDATA[Hello World ]]></title>
-        <id>https://forever.mx/post/hello-world</id>
-        <link href="https://forever.mx/post/hello-world">
+        <id>https://howardzhao.com/post/hello-world</id>
+        <link href="https://howardzhao.com/post/hello-world">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>🌏 Hello world,Goodbye cruel world.</p>
-<p>🔗 helloworld.science</p>
+<p>🔗 https://HowardZhao.com</p>
 ]]></content>
     </entry>
 </feed>
