@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://howardzhao.com</id>
     <title>HowardZhao.com</title>
-    <updated>2019-12-14T02:55:52.186Z</updated>
+    <updated>2019-12-14T03:00:34.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://howardzhao.com"/>
     <link rel="self" href="https://howardzhao.com/atom.xml"/>
@@ -27,6 +27,24 @@
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>🌏 Hello world,Goodbye cruel world.</p>
 <p>🔗 https://HowardZhao.com</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About Stardust About Forever]]></title>
+        <id>https://howardzhao.com/post/about</id>
+        <link href="https://howardzhao.com/post/about">
+        </link>
+        <updated>2010-10-10T02:10:10.000Z</updated>
+        <content type="html"><![CDATA[<p>关于stardust,回忆历来听到的歌，没有哪一首歌能像Forever一样让我久久不能放下的了。</p>
+<p>从十八九岁还称得上青春之时到现在已经过了好久好久，但那忧伤的旋律始终盘旋在记忆的最深处。</p>
+<p>而stardust也正是从中抽出的两个词组合而成，凑巧的是这两个巨大反差的词合在一起，除了自己很喜欢的星尘的本意外，更有了虚幻，虚无缥缈的幻想意思，正合了每次听这首歌时那种难以言表的心情，也隐含了心中那份伤感。</p>
+<p>Forever，也许是Stratovarius这支重金属乐队最柔和的歌声了。</p>
+<p>Forever stratovarius专辑Episode</p>
+<p>I stand alone in the darkness,the winter of my life come so fast,memories go back to childhood,to days I still recall.</p>
+<p>Oh how happy I was then,there was no sorrow,there was no pain.Walkingthrough the green fields,sunshine in my eyes.</p>
+<p>I’m still there everywhere,I’m the dust in the wind,I’m the star inthe northern sky.I never stayed anywhere,I’m the wind in the trees,would you wait for me forever?</p>
+<p>I’m still there everywhere,I’m the dust in the wind,I’m the star in the northern sky.I never stayed anywhere,I’m the wind in the trees,would you wait for me forever?</p>
+<p>Would you wait for me forever?Will you wait for me forever?</p>
 ]]></content>
     </entry>
 </feed>
