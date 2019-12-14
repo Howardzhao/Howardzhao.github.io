@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://forever.mx</id>
     <title>Forever.mx</title>
-    <updated>2019-12-14T06:26:54.078Z</updated>
+    <updated>2019-12-14T08:26:39.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://forever.mx"/>
     <link rel="self" href="https://forever.mx/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://forever.mx/favicon.ico</icon>
     <rights>All rights reserved 2019, Forever.mx</rights>
     <entry>
-        <title type="html"><![CDATA[锻炼身体]]></title>
+        <title type="html"><![CDATA[骑行记录]]></title>
         <id>https://forever.mx/post/duan-lian-shen-ti</id>
         <link href="https://forever.mx/post/duan-lian-shen-ti">
         </link>
