@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://forever.mx</id>
+    <id>https://howardzhao.com</id>
     <title>Forever.MX</title>
-    <updated>2019-12-28T06:03:41.944Z</updated>
+    <updated>2019-12-28T11:59:32.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://forever.mx"/>
-    <link rel="self" href="https://forever.mx/atom.xml"/>
+    <link rel="alternate" href="https://howardzhao.com"/>
+    <link rel="self" href="https://howardzhao.com/atom.xml"/>
     <subtitle>About Forever.mx</subtitle>
-    <logo>https://forever.mx/images/avatar.png</logo>
-    <icon>https://forever.mx/favicon.ico</icon>
+    <logo>https://howardzhao.com/images/avatar.png</logo>
+    <icon>https://howardzhao.com/favicon.ico</icon>
     <rights>All rights reserved 2019, Forever.MX</rights>
     <entry>
         <title type="html"><![CDATA[折腾鼠标]]></title>
-        <id>https://forever.mx/post/zhe-teng-shu-biao</id>
-        <link href="https://forever.mx/post/zhe-teng-shu-biao">
+        <id>https://howardzhao.com/post/zhe-teng-shu-biao</id>
+        <link href="https://howardzhao.com/post/zhe-teng-shu-biao">
         </link>
         <updated>2019-12-28T05:09:11.000Z</updated>
         <content type="html"><![CDATA[<p>一年来使用着一个rapoo的蓝牙/2.4G双模鼠标，超乎想象便宜的那种，一开始就感觉左右按键手感都不好，中键还可以。<br>
 最近鼠标左键完全瘫软了，甚至到了点击无反应的地步，拆开鼠标，看到了内部，真是特别诧异，左右按键是如下图所示的垃圾微动，反而中键保留了kailh凯华的标准微动，电路板上左右按键孔位及丝印都是为标准微动准备的，谜之省成本方案。<br>
-<img src="https://forever.mx/post-images/1577511601957.jpg" alt="垃圾微动"><br>
+<img src="https://howardzhao.com/post-images/1577511601957.jpg" alt="垃圾微动"><br>
 翻出旧的罗技代工的联想无线鼠，这个鼠标左右键正常，中键垃圾四角微动彻底坏了，滚轮的橡胶圈也彻彻底底的老化成粘黏的橡胶泥状。<br>
-<img src="https://forever.mx/post-images/1577511624737.jpg" alt="罗技鼠标"><br>
+<img src="https://howardzhao.com/post-images/1577511624737.jpg" alt="罗技鼠标"><br>
 开了电烙铁，拆开取下了罗技鼠标左右的kailh微动，去掉雷柏鼠标的旧的左右按键，照着丝印装上前面拆下的凯华微动，一切顺利，装好就能正常使用了。<br>
-<img src="https://forever.mx/post-images/1577511639176.jpg" alt="拆下微动"><br>
-<img src="https://forever.mx/post-images/1577511749056.jpg" alt="换微动"><br>
-<img src="https://forever.mx/post-images/1577511764861.jpg" alt="新旧微动对照"><br>
+<img src="https://howardzhao.com/post-images/1577511639176.jpg" alt="拆下微动"><br>
+<img src="https://howardzhao.com/post-images/1577511749056.jpg" alt="换微动"><br>
+<img src="https://howardzhao.com/post-images/1577511764861.jpg" alt="新旧微动对照"><br>
 附上现有的几个鼠标的合照，小米便携鼠标，买来很久了。拆开看过微动是很矮的方形微动，按键手感还好，不经常使用，不知道寿命怎样。最大问题是后部太低完全无支撑，用着手腕疲劳难受痛，完全不能当长时间鼠标使用。刚刚使用的双飞燕光微动鼠标，想试下光微动的感觉，虽然完全不玩游戏，但也没得选，只有双飞燕血手系列了。<br>
-<img src="https://forever.mx/post-images/1577512508717.jpg" alt="鼠标合照"><br>
+<img src="https://howardzhao.com/post-images/1577512508717.jpg" alt="鼠标合照"><br>
 PS:还有一种富勒的弹簧磁铁组成的光磁微动的鼠标，参数里按键次数寿命更多，以后有机会尝试了。</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[骑行记录]]></title>
-        <id>https://forever.mx/post/qi-xing-ji-lu</id>
-        <link href="https://forever.mx/post/qi-xing-ji-lu">
+        <id>https://howardzhao.com/post/qi-xing-ji-lu</id>
+        <link href="https://howardzhao.com/post/qi-xing-ji-lu">
         </link>
         <updated>2019-12-14T02:49:48.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://forever.mx/post-images/1576292107103.png" alt=""></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://howardzhao.com/post-images/1576292107103.png" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello World ]]></title>
-        <id>https://forever.mx/post/hello-world</id>
-        <link href="https://forever.mx/post/hello-world">
+        <id>https://howardzhao.com/post/hello-world</id>
+        <link href="https://howardzhao.com/post/hello-world">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>🌏 Hello world,Goodbye cruel world.</p>
@@ -51,8 +51,8 @@ PS:还有一种富勒的弹簧磁铁组成的光磁微动的鼠标，参数里�
     </entry>
     <entry>
         <title type="html"><![CDATA[About Stardust About Forever]]></title>
-        <id>https://forever.mx/post/about</id>
-        <link href="https://forever.mx/post/about">
+        <id>https://howardzhao.com/post/about</id>
+        <link href="https://howardzhao.com/post/about">
         </link>
         <updated>2010-10-10T02:10:10.000Z</updated>
         <content type="html"><![CDATA[<p>关于stardust,回忆历来听到的歌，没有哪一首歌能像Forever一样让我久久不能放下的了。</p>
