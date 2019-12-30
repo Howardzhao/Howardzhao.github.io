@@ -2,13 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://howardzhao.com</id>
     <title>HowardZhao.com</title>
-    <updated>2019-12-30T04:52:02.510Z</updated>
+    <updated>2019-12-30T12:10:47.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://howardzhao.com"/>
     <link rel="self" href="https://howardzhao.com/atom.xml"/>
     <logo>https://howardzhao.com/images/avatar.png</logo>
     <icon>https://howardzhao.com/favicon.ico</icon>
     <rights>All rights reserved 2019, HowardZhao.com</rights>
+    <entry>
+        <title type="html"><![CDATA[在山的那边]]></title>
+        <id>https://howardzhao.com/post/zai-shan-de-na-bian</id>
+        <link href="https://howardzhao.com/post/zai-shan-de-na-bian">
+        </link>
+        <updated>2019-12-30T12:08:31.000Z</updated>
+        <content type="html"><![CDATA[<p>一<br>
+小时候，我常伏在窗口痴想<br>
+——山那边是什么呢？<br>
+妈妈给我说过：海<br>
+哦，山那边是海吗？<br>
+于是，怀着一种隐秘的想望<br>
+有一天我终于爬上了那个山顶<br>
+可是，我却几乎是哭着回来了<br>
+——在山的那边，依然是山<br>
+山那边的山啊，铁青着脸<br>
+给我的幻想打了一个零分！<br>
+妈妈，那个海呢？<br>
+二<br>
+在山的那边，是海！<br>
+是用信念凝成的海<br>
+今天啊，我竟没想到<br>
+一颗从小飘来的种子<br>
+却在我的心中扎下了深根<br>
+是的，我曾一次又一次的失望过<br>
+当我爬上那一座座诱惑着我的山顶<br>
+但我又一次次鼓起信心向前走去<br>
+因为我听到海依然在远方为我喧腾<br>
+——那雪白的海潮啊，夜夜奔来<br>
+一次次浸湿了我枯干的心灵……<br>
+在山的那边，是海吗？<br>
+是的！<br>
+人们啊，请相信——<br>
+在不停地翻过无数座山后<br>
+在一次次地战胜失望之后<br>
+你终会攀上这样一座山顶<br>
+而在这座山的那边，就是海呀<br>
+是一个全新的世界<br>
+在一瞬间照亮你的眼睛……</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解决手机号码被误标注问题]]></title>
         <id>https://howardzhao.com/post/jie-jue-shou-ji-hao-ma-bei-wu-biao-zhu-wen-ti</id>
