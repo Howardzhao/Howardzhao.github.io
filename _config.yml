@@ -1,0 +1,8 @@
+# Build settings
+permalink: /:year-:month-:day-:title.html
+url: https://howardzhao.com
+author: HowardZhao
+plugins: [jekyll-paginate]
+markdown: kramdown
+highlighter: rouge
+paginate: 100
