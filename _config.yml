@@ -1,6 +1,6 @@
 # Build settings
 permalink: /:year-:month-:day-:title.html
-url: https://howardzhao.com
+url: https://blog.howardzhao.com
 author: HowardZhao
 plugins: [jekyll-paginate]
 markdown: kramdown
